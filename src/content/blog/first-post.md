@@ -7,4 +7,5 @@ heroImage: "/blog-placeholder-2.jpg"
 
 
 <h5>Minor site changes - 24/4/2025</h5>
-  [Instagram]https://www.instagram.com/kaew0606_
+
+- [Instagram](https://www.instagram.com/kaew0606_)
