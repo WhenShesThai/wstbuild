@@ -7,4 +7,4 @@ heroImage: "/blog-placeholder-2.jpg"
 
 
 <h5>Minor site changes - 24/4/2025</h5> 
-![Alt text](./wsticon.png)
+ ![Alt text](./wsticon.png)
