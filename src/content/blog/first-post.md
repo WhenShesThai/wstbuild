@@ -8,4 +8,4 @@ heroImage: "/blog-placeholder-2.jpg"
 
 <h5>Minor site changes - 24/4/2025</h5> 
 
-![img](.https://raw.githubusercontent.com/WhenShesThai/wstbuild/refs/heads/main/public/wsticon.png)
+![Alt text](.https://raw.githubusercontent.com/WhenShesThai/wstbuild/refs/heads/main/public/wsticon.png)
