@@ -6,3 +6,5 @@ heroImage: "/blog-placeholder-4.jpg"
 ---
 
 [Kaewmanee Benjawanich](https://www.instagram.com/kaew0606_/)
+[b.bumnyn.ubl](https://www.instagram.com/b.bumnyn.ubl/)
+[warisara02](https://www.instagram.com/warisara02/)
