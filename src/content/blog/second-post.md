@@ -1,7 +1,7 @@
 ---
-title: "Something Interesting Might Happen Here"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 15 2022"
+title: "The Vault"
+description: "The Vault"
+pubDate: "May 21 2025"
 heroImage: "/blog-placeholder-4.jpg"
 ---
 
