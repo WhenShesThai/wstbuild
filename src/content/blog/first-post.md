@@ -1,6 +1,6 @@
 ---
 title: "Fixes/Updates"
-description: "Lorem ipsum dolor sit amet"
+description: "A place for fixes and changes"
 pubDate: "Apr 24, 2025"
 heroImage: "/blog-placeholder-2.jpg"
 ---
