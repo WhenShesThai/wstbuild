@@ -1,6 +1,6 @@
 ---
 title: "Hidden Gems"
-description: "Lorem ipsum dolor sit amet"
+description: "The Hidden Spots"
 pubDate: "Apr 26 2025"
 heroImage: "/blog-placeholder-2.jpg"
 ---
