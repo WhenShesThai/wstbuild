@@ -13,4 +13,3 @@ heroImage: "/blog-placeholder-4.jpg"
 
 [Arisa Jankaew](https://www.instagram.com/_____ar00/)
 
-[Kitiyakorn Ponweang](https://www.instagram.com/kp_noeyyyyy/)
